@@ -1,0 +1,6 @@
+<features name="hello" xmlns="http://karaf.apache.org/xmlns/features/v1.2.0">
+    <feature name="provider-and-client">
+        <bundle>mvn:com.examples/client/1.0-SNAPSHOT</bundle>
+        <bundle>mvn:com.examples/provider/1.0-SNAPSHOT</bundle>
+    </feature>
+</features>

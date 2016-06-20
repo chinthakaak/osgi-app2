@@ -12,6 +12,7 @@
     <modules>
         <module>../provider</module>
         <module>../client</module>
+        <module>release.feature</module>
     </modules>
 
     <dependencies>
