@@ -10,12 +10,13 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>com.examples.client</groupId>
     <artifactId>client</artifactId>
     <packaging>bundle</packaging>
 
     <dependencies>
         <dependency>
-            <groupId>com.examples</groupId>
+            <groupId>com.examples.provider</groupId>
             <artifactId>provider</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
